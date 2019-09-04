@@ -1,2 +1,3 @@
 # alliswell
-this project is only for practice purpose.
+this project is only for practice purpose
+sample project
